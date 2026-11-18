@@ -1,0 +1,12 @@
+import numpy as np
+
+def dot_product(x: list, y: list) -> float:
+    """
+    Returns the dot product as a float.
+    """
+    # Write code here
+    result = float(np.dot(x,y))
+    print(result)
+    return result;
+    pass
+    
