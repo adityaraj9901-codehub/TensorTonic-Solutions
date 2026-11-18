@@ -7,5 +7,5 @@ def dot_product(x: list, y: list) -> float:
     # Write code here
     result = float(np.dot(x,y))
     return result;
-    pass
+    
     
